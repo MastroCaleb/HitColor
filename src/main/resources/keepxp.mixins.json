@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "caleb.keep.xp.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "HitColorMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
